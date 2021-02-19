@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{83224e17-360e-4e9f-b755-0d571fa62b4a}") = "Sorted.Functions.Email", "Sorted.Functions.Email\Sorted.Functions.Email.csproj", "{99dd8530-ffa6-4e56-9fa1-1b30a0141690}"
+EndProject
+Project("{b6d3e629-80a5-4cf5-8e60-51160f4834e9}") = "Sorted.Functions.Core", "..\Sorted.Functions\Sorted.Functions.Core\Sorted.Functions.Core.csproj", "{fb958ef0-5df7-40dc-9c06-40bdf696d6e1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99dd8530-ffa6-4e56-9fa1-1b30a0141690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99dd8530-ffa6-4e56-9fa1-1b30a0141690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99dd8530-ffa6-4e56-9fa1-1b30a0141690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99dd8530-ffa6-4e56-9fa1-1b30a0141690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{fb958ef0-5df7-40dc-9c06-40bdf696d6e1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fb958ef0-5df7-40dc-9c06-40bdf696d6e1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fb958ef0-5df7-40dc-9c06-40bdf696d6e1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{fb958ef0-5df7-40dc-9c06-40bdf696d6e1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3e6fce5e-5179-4f2e-9b9a-032d90790e13}
+	EndGlobalSection
+EndGlobal
