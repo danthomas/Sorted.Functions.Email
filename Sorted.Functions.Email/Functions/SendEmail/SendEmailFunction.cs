@@ -16,7 +16,7 @@ namespace Sorted.Functions.Email.Functions.SendEmail
             _host = host;
         }
 
-        public SendEmailResponse Execute(SendEmailRequest request)
+        public SendEmailResponse RespondTo(SendEmailRequest request)
         {
             var fileName = DateTime.Now.ToString("O").Replace(":", "").Replace("-", "");
 
