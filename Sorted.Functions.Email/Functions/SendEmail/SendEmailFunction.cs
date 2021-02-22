@@ -1,6 +1,6 @@
 using System;
 using System.IO;
-using Sorted.Functions.Core;
+using Sorted.Functions.Interfaces;
 using Sorted.Functions.Email.Requests;
 using Sorted.Functions.Email.Responses;
 using Sorted.Functions.Email.Events;

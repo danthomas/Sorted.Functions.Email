@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Sorted.Functions\Sorted.Functions.Core\Sorted.Functions.Core.csproj" />
+    <ProjectReference Include="..\..\Sorted.Functions\Sorted.Functions.Interfaces\Sorted.Functions.Interfaces.csproj" />
   </ItemGroup>
 
 </Project>
